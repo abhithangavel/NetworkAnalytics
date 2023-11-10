@@ -1,6 +1,6 @@
 # Network Analytics
 
-## This repository for Zomato vs Swiggy - sentiment analysis with Google user reviews Group project
+## This is a working repository for Zomato vs Swiggy - sentiment analysis with Google user reviews Group project
 
 ### Group Members: Shri Abhiraami Thangavel, Mahesh Cherukuri, Suhas Sundar, Laasya Priya Lavisetty
 
