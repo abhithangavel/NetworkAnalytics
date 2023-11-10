@@ -1,4 +1,3 @@
-# NetworkAnalytics
+# Network Analytics
 
-### Data from Jul'21 to Jun'23. And uploaded as .xlsx file
-### 
+### This repository for Zomato vs Swiggy - sentiment analysis with Google user reviews Group project
