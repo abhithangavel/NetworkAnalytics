@@ -2,7 +2,7 @@
 
 ## This is a working repository for Zomato vs Swiggy - sentiment analysis with Google user reviews Group project
 
-### Group Members: Shri Abhiraami Thangavel, Mahesh Cherukuri, Suhas Sundar, Laasya Priya Lavisetty
+Group Members: Shri Abhiraami Thangavel, Mahesh Cherukuri, Suhas Sundar, Laasya Priya Lavisetty
 
 ### Summary:
 Swiggy and Zomato are the two big league food delivery service providers in India with a combined market share of 79%. The dataset, sourced from Kaggle, comprises of Google Play Store reviews for these two apps, serves as a valuable resource for analyzing user sentiments and preferences in the Indian food delivery market.
